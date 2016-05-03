@@ -16,3 +16,6 @@
 
 5. Wakari (https://wakari.io/)
   - web-based python data analysis
+
+6. nbgrader (https://github.com/jupyter/nbgrader)
+  - A system for automated assigning and grading Jupyter notebooks
