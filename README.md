@@ -19,3 +19,6 @@
 
 6. [nbgrader](https://github.com/jupyter/nbgrader)
   - A system for automated assigning and grading Jupyter notebooks
+
+7. [Google Drive support for Jupyter Notebook](https://github.com/jupyter/jupyter-drive)
+  - allows IPython to use Google Drive for file management
