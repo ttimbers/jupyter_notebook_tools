@@ -5,6 +5,7 @@
 
 2. JupyterHub (https://jupyterhub.readthedocs.io/en/latest/)
   - a server that gives multiple users access to Jupyter notebooks, running an independent Jupyter notebook server for each user
+  - blog post discussing the realities of using this in a large classroom: https://developer.rackspace.com/blog/deploying-jupyterhub-for-education/
 
 3. tmpnb (https://tmp42.tmpnb.org/user/i0pTiRldaT1y/tree)
   - free online notebook server for demos and throwaway experimentation
